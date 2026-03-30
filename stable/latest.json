@@ -1,10 +1,10 @@
 ﻿{
     "app":  "Frubs",
-    "version":  "1.0.8",
+    "version":  "1.0.9",
     "channel":  "stable",
-    "publishedAt":  "2026-03-30T23:04:25.5222768Z",
-    "sha256":  "9d3b0b170848262e9c31769f501de41b39b437133facb000d65dbf70024596bf",
-    "downloadUrl":  "https://github.com/PapelKYC/frubs-updates/releases/download/v1.0.8/frubs_update.zip",
-    "installerUrl":  "https://github.com/PapelKYC/frubs-updates/releases/download/v1.0.8/frubs_setup.exe",
-    "notes":  "Release 1.0.8"
+    "publishedAt":  "2026-03-30T23:12:30.6955203Z",
+    "sha256":  "61b3ed0ac82a2fa7d8ad13c6a7bb5093af5caac9ce821ef551bfbb4ccdc5d9d0",
+    "downloadUrl":  "https://github.com/PapelKYC/frubs-updates/releases/download/v1.0.9/frubs_update.zip",
+    "installerUrl":  "https://github.com/PapelKYC/frubs-updates/releases/download/v1.0.9/frubs_setup.exe",
+    "notes":  "Release 1.0.9"
 }
